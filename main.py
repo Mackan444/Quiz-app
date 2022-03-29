@@ -24,35 +24,14 @@ while quiz.remaining_questions():
 print("Game Over. Well played!")
 print(f"Your final score was: {quiz.score}/{quiz.question_number}\n")
 
+"""
 
+    ║   ║ ║
+    ║║ ║║ ║
+    ║ ║ ║ ║
+    ║   ║.╚════
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"""
 """
 from secrets import choice
 from Resources import Questions, Quiz
